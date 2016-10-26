@@ -33,6 +33,11 @@ hhhhhhhhhh
 jjjjjjjjjjjjjjj
 =======
 iiiiiiiiiiiii
+<<<<<<< HEAD
 >>>>>>> dev2
 
 ooooooooooooo
+=======
+
+ppppppppppp
+>>>>>>> dev2
