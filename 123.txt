@@ -18,4 +18,8 @@ ccccccccccccccc
 
 dddddddddddddddd
 
+<<<<<<< HEAD
 ffffffffffffffff
+======= 
+eeeeeeeeeeeeeeee
+>>>>>>> dev2
